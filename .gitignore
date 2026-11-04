@@ -1,0 +1,3 @@
+# Installers are GitHub Release assets, never part of the git tree.
+*
+!.gitignore
